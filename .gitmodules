@@ -1,0 +1,3 @@
+[submodule "whitakerLib"]
+	path = whitakerLib
+	url = https://github.com/ddd2951/whitakerLib.git
