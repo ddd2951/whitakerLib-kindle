@@ -1,4 +1,3 @@
-<img width="600" height="810" alt="kindle_gif" src="https://github.com/user-attachments/assets/8e7f0e8f-c31f-48eb-b566-6e31900e0131" />
 # WhitakerLib Kindle
 
 A KOReader plugin for reading Latin on a Kindle or other e-reader, built on
