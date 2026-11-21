@@ -1,3 +1,4 @@
+<img width="600" height="810" alt="kindle_gif" src="https://github.com/user-attachments/assets/8e7f0e8f-c31f-48eb-b566-6e31900e0131" />
 # WhitakerLib Kindle
 
 A KOReader plugin for reading Latin on a Kindle or other e-reader, built on
@@ -15,6 +16,8 @@ reproduces the analyses of William Whitaker's WORDS.
 
 This is an early version. I use it to read Latin on my own Kindle, and it
 works well enough that I wanted to share it. It's deliberately thin for now.
+
+<img width="600" height="810" alt="kindle_gif" src="https://github.com/user-attachments/assets/8e7f0e8f-c31f-48eb-b566-6e31900e0131" />
 
 What's next:
 
